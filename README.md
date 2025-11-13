@@ -1,5 +1,5 @@
 # U2Q (Auto Queue)
-- ("Uto-uto ko") hahahaha im so funny yep! - (U2Q = Auto Queue)
+- ("Uto-uto ko") hahahaha im so funny yep! - (Uto-uto ko = U2Q = Auto Queue) 
 
 - U2Q (short for Auto Queue) is a lightweight, modern full-stack MVP designed to **demonstrate reliable CRM integration and automated lead management** using React, Express.js, and a PostgreSQL database (Supabase).
 
